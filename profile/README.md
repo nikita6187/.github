@@ -21,7 +21,8 @@ This organization contains GitHub Repositories for the _Medical Event Data Stand
 ## Pretrained Models
   * CLMBR-T-base: https://huggingface.co/StanfordShahLab/clmbr-t-base
   * Context Clues (a collection of Mamba, Llama, Hyena, and GPT models across context lengths from 512 - 16,384 tokens): https://huggingface.co/collections/StanfordShahLab/context-clues-6757f893f6a2918c7ab809f1
-
+  * MOTOR: a 143 million parameter autoregressive foundation model pretrained on 2.57 million deidentified EHRs from Stanford Medicine https://huggingface.co/StanfordShahLab/motor-t-base
+    
 ## Datasets / Benchmarks
 We now have an official [MEDS MIMIC-IV demo dataset on Physionet](https://physionet.org/content/mimic-iv-demo-meds/0.0.1/), which allows you to familiarize yourself with MEDS without running or downloading any additional software.
 | Dataset                               | Stays   | Version    | Frequency            | Origin      | Originally Published    | License       | Repository Link                                                                                    | MEDS ETL                                                               | Full Dataset Name                                                                            |
